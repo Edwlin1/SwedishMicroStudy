@@ -1,0 +1,367 @@
+name,yf_ticker,share_type,primary_line,sector,currency,verified
+AAK,AAK.ST,common,True,Consumer Staples,SEK,yes
+ABB Ltd,ABB.ST,common,True,Industrials,SEK,yes
+AcadeMedia,ACAD.ST,common,True,Consumer Discretionary,SEK,yes
+Acast,ACAST.ST,common,True,Technology,SEK,yes
+Acrinova B,ACRI-B.ST,common,True,Real Estate,SEK,yes
+Actic Group,ATIC.ST,common,True,Consumer Discretionary,SEK,no - from memory
+Active Biotech,ACTI.ST,common,True,Health Care,SEK,yes
+AddLife B,ALIF-B.ST,common,True,Health Care,SEK,yes
+Addnode Group B,ANOD-B.ST,common,True,Technology,SEK,yes
+Addtech B,ADDT-B.ST,common,True,Industrials,SEK,yes
+AFRY,AFRY.ST,common,True,Industrials,SEK,yes
+Alfa Laval,ALFA.ST,common,True,Industrials,SEK,yes
+Alimak Group,ALIG.ST,common,True,Industrials,SEK,yes
+Alleima,ALLEI.ST,common,True,Basic Materials,SEK,yes
+Alligator Bioscience,ATORX.ST,common,True,Health Care,SEK,yes
+Alligo B,ALLIGO-B.ST,common,True,Consumer Discretionary,SEK,yes
+Altra Fastigheter,ALTRA.ST,common,True,Real Estate,SEK,yes
+Alvotech SDB,ALVO-SDB.ST,SDB (depositary receipt),True,Health Care,SEK,yes
+Ambea,AMBEA.ST,common,True,Health Care,SEK,yes
+Annehem Fastigheter B,ANNE-B.ST,common,True,Real Estate,SEK,yes
+Apotea,APOTEA.ST,common,True,Consumer Staples,SEK,yes
+AQ Group,AQ.ST,common,True,Industrials,SEK,yes
+Arctic Paper,ARP.ST,common,True,Basic Materials,SEK,yes
+Arion Banki SDB,ARION-SDB.ST,SDB (depositary receipt),True,Financials,SEK,yes
+Arjo B,ARJO-B.ST,common,True,Health Care,SEK,yes
+Arla Plast,ARPL.ST,common,True,Industrials,SEK,yes
+Ascelia Pharma,ACE.ST,common,True,Health Care,SEK,yes
+Asker Healthcare Group,ASKER.ST,common,True,Health Care,SEK,yes
+Asmodee Group B,ASMDEE-B.ST,common,True,Consumer Discretionary,SEK,yes
+ASSA ABLOY B,ASSA-B.ST,common,True,Industrials,SEK,yes
+AstraZeneca,AZN.ST,common,True,Health Care,SEK,yes
+Atlas Copco A,ATCO-A.ST,common,True,Industrials,SEK,yes
+Atrium Ljungberg B,ATRLJ-B.ST,common,True,Real Estate,SEK,yes
+Attendo,ATT.ST,common,True,Health Care,SEK,yes
+Autoliv SDB,ALIV-SDB.ST,SDB (depositary receipt),True,Consumer Discretionary,SEK,yes
+Avanza Bank Holding,AZA.ST,common,True,Financials,SEK,yes
+Avarda Bank,AVARDA.ST,common,True,Financials,SEK,check - ambiguous
+Axfood,AXFO.ST,common,True,Consumer Staples,SEK,yes
+B3 Consulting Group,B3.ST,common,True,Technology,SEK,yes
+Bactiguard Holding B,BACTI-B.ST,common,True,Health Care,SEK,no - from memory
+Balco Group,BALCO.ST,common,True,Industrials,SEK,no - from memory
+BE Group,BEGR.ST,common,True,Basic Materials,SEK,no - from memory
+Beijer Alma B,BEIA-B.ST,common,True,Basic Materials,SEK,yes
+Beijer Ref B,BEIJ-B.ST,common,True,Industrials,SEK,yes
+Bergman & Beving B,BERG-B.ST,common,True,Industrials,SEK,yes
+Berner Industrier B,BERNER-B.ST,common,True,Industrials,SEK,yes
+Besqab,BESQAB.ST,common,True,Real Estate,SEK,yes
+Betsson B,BETS-B.ST,common,True,Consumer Discretionary,SEK,yes
+Better Collective,BETCO.ST,common,True,Technology,SEK,yes
+BHG Group,BHG.ST,common,True,Consumer Discretionary,SEK,yes
+BICO Group,BICO.ST,common,True,Health Care,SEK,yes
+Bilia A,BILI-A.ST,common,True,Consumer Discretionary,SEK,yes
+Billerud,BILL.ST,common,True,Basic Materials,SEK,yes
+BioArctic B,BIOA-B.ST,common,True,Health Care,SEK,yes
+BioGaia B,BIOG-B.ST,common,True,Health Care,SEK,yes
+BioInvent International,BINV.ST,common,True,Health Care,SEK,yes
+Björn Borg,BORG.ST,common,True,Consumer Discretionary,SEK,yes
+Boliden,BOL.ST,common,True,Basic Materials,SEK,yes
+Bonava B,BONAV-B.ST,common,True,Consumer Discretionary,SEK,yes
+BONESUPPORT HOLDING,BONEX.ST,common,True,Health Care,SEK,yes
+Bong,BONG.ST,common,True,Industrials,SEK,yes
+Boozt,BOOZT.ST,common,True,Consumer Discretionary,SEK,yes
+Boule Diagnostics,BOUL.ST,common,True,Health Care,SEK,yes
+Bravida Holding,BRAV.ST,common,True,Industrials,SEK,yes
+Brinova Fastigheter B,BRIN-B.ST,common,True,Real Estate,SEK,yes
+BTS Group B,BTS-B.ST,common,True,Industrials,SEK,yes
+Bufab,BUFAB.ST,common,True,Industrials,SEK,yes
+Bulten,BULTEN.ST,common,True,Consumer Discretionary,SEK,yes
+Bure Equity,BURE.ST,common,True,Financials,SEK,yes
+Byggmax Group,BMAX.ST,common,True,Consumer Discretionary,SEK,yes
+Byggmästare A J Ahlström H,AJA-B.ST,common,True,Industrials,SEK,yes
+C-RAD B,CRAD-B.ST,common,True,Health Care,SEK,yes
+Camurus,CAMX.ST,common,True,Health Care,SEK,yes
+Cantargia,CANTA.ST,common,True,Health Care,SEK,no - from memory
+Carasent,CARA.ST,common,True,Health Care,SEK,yes
+Castellum,CAST.ST,common,True,Real Estate,SEK,yes
+Catella B,CAT-B.ST,common,True,Financials,SEK,yes
+Catena,CATE.ST,common,True,Real Estate,SEK,yes
+Catena Media,CTM.ST,common,True,Consumer Discretionary,SEK,yes
+Cavotec Group,CCC.ST,common,True,Industrials,SEK,yes
+CellaVision,CEVI.ST,common,True,Health Care,SEK,yes
+Cibus Real Estate,CIBUS.ST,common,True,Real Estate,SEK,yes
+Cinclus Pharma Holding,CINPHA.ST,common,True,Health Care,SEK,no - from memory
+Clas Ohlson B,CLAS-B.ST,common,True,Consumer Discretionary,SEK,yes
+Cloetta B,CLA-B.ST,common,True,Consumer Staples,SEK,yes
+Concejo B,CNCJO-B.ST,common,True,Industrials,SEK,no - from memory
+Coor Service Management Hold.,COOR.ST,common,True,Industrials,SEK,yes
+Corem Property Group B,CORE-B.ST,common,True,Real Estate,SEK,yes
+Creades A,CRED-A.ST,common,True,Financials,SEK,yes
+CTEK,CTEK.ST,common,True,Industrials,SEK,yes
+CTT Systems,CTT.ST,common,True,Industrials,SEK,yes
+Cynca Nordic,CYNCA.ST,common,True,Consumer Discretionary,SEK,check - ambiguous
+Dedicare B,DEDI.ST,common,True,Health Care,SEK,no - from memory
+Diös Fastigheter,DIOS.ST,common,True,Real Estate,SEK,yes
+Dometic Group,DOM.ST,common,True,Consumer Discretionary,SEK,yes
+Duni,DUNI.ST,common,True,Consumer Staples,SEK,yes
+Duroc B,DURC-B.ST,common,True,Basic Materials,SEK,yes
+Dustin Group,DUST.ST,common,True,Technology,SEK,yes
+Dynavox Group,DYVOX.ST,common,True,Technology,SEK,yes
+Eastnine,EAST.ST,common,True,Real Estate,SEK,yes
+Egetis Therapeutics,EGTX.ST,common,True,Health Care,SEK,yes
+Elanders B,ELAN-B.ST,common,True,Industrials,SEK,yes
+Electrolux B,ELUX-B.ST,common,True,Consumer Discretionary,SEK,yes
+Electrolux Professional B,EPRO-B.ST,common,True,Industrials,SEK,yes
+Elekta B,EKTA-B.ST,common,True,Health Care,SEK,yes
+Ellos Holding,ELLOS.ST,common,True,Consumer Discretionary,SEK,yes
+Elon,ELON.ST,common,True,Consumer Discretionary,SEK,no - from memory
+Eltel,ELTEL.ST,common,True,Industrials,SEK,yes
+Embracer Group B,EMBRAC-B.ST,common,True,Consumer Discretionary,SEK,yes
+Enad Global 7,EG7.ST,common,True,Consumer Discretionary,SEK,yes
+Enea,ENEA.ST,common,True,Technology,SEK,yes
+engcon B,ENGCON-B.ST,common,True,Industrials,SEK,yes
+Eniro Group,ENRO.ST,common,True,Consumer Discretionary,SEK,no - from memory
+Enity Holding,ENITY.ST,common,True,Financials,SEK,yes
+Eolus B,EOLU-B.ST,common,True,Energy,SEK,yes
+Ependion,EPEN.ST,common,True,Industrials,SEK,yes
+Epiroc A,EPI-A.ST,common,True,Industrials,SEK,yes
+Episurf B,EPIS-B.ST,common,True,Health Care,SEK,yes
+EQL Pharma,EQL.ST,common,True,Health Care,SEK,yes
+EQT,EQT.ST,common,True,Financials,SEK,yes
+Ericsson B,ERIC-B.ST,common,True,Telecommunications,SEK,yes
+Essity B,ESSITY-B.ST,common,True,Consumer Staples,SEK,yes
+Evolution,EVO.ST,common,True,Consumer Discretionary,SEK,yes
+Ework Group,EWRK.ST,common,True,Industrials,SEK,yes
+Fabege,FABG.ST,common,True,Real Estate,SEK,yes
+Fagerhult Group,FAG.ST,common,True,Industrials,SEK,yes
+Fasadgruppen Group,FG.ST,common,True,Industrials,SEK,yes
+Fast. Balder B,BALD-B.ST,common,True,Real Estate,SEK,yes
+Fastator,FASTAT.ST,common,True,Real Estate,SEK,yes
+Fastighetsbolaget Emilshus B,EMIL-B.ST,common,True,Real Estate,SEK,yes
+Fastpartner A,FPAR-A.ST,common,True,Real Estate,SEK,yes
+Fenix Outdoor International B,FOI-B.ST,common,True,Consumer Discretionary,SEK,yes
+Ferronordic,FNM.ST,common,True,Industrials,SEK,yes
+Flat Capital B,FLAT-B.ST,common,True,Financials,SEK,yes
+Flerie,FLERIE.ST,common,True,Financials,SEK,yes
+FM Mattsson B,FMM-B.ST,common,True,Industrials,SEK,yes
+Fortinova Fastigheter ser. B,FNOVA-B.ST,common,True,Real Estate,SEK,yes
+G5 Entertainment,G5EN.ST,common,True,Consumer Discretionary,SEK,no - from memory
+Garo,GARO.ST,common,True,Technology,SEK,no - from memory
+Genova Property Group,GPG.ST,common,True,Real Estate,SEK,yes
+Gentoo Media,G2M.ST,common,True,Consumer Discretionary,SEK,yes
+Getinge B,GETI-B.ST,common,True,Health Care,SEK,yes
+Green Landscaping Group,GREEN.ST,common,True,Industrials,SEK,yes
+Gruvaktiebolaget Viscaria,VISC.ST,common,True,Basic Materials,SEK,yes
+Gränges,GRNG.ST,common,True,Basic Materials,SEK,yes
+Hacksaw,HACK.ST,common,True,Technology,SEK,yes
+HAKI Safety B,HAKI-B.ST,common,True,Industrials,SEK,no - from memory
+Hansa Biopharma,HNSA.ST,common,True,Health Care,SEK,yes
+HANZA,HANZA.ST,common,True,Industrials,SEK,yes
+Havsfrun Investment B,HAV-B.ST,common,True,Financials,SEK,yes
+HEBA B,HEBA-B.ST,common,True,Real Estate,SEK,yes
+Hemnet Group,HEM.ST,common,True,Real Estate,SEK,yes
+Hennes & Mauritz B,HM-B.ST,common,True,Consumer Discretionary,SEK,yes
+Hexagon B,HEXA-B.ST,common,True,Technology,SEK,yes
+Hexatronic Group,HTRO.ST,common,True,Telecommunications,SEK,yes
+HEXPOL B,HPOL-B.ST,common,True,Basic Materials,SEK,yes
+HMS Networks,HMS.ST,common,True,Telecommunications,SEK,yes
+Hoist Finance,HOFI.ST,common,True,Financials,SEK,yes
+Holmen B,HOLM-B.ST,common,True,Basic Materials,SEK,yes
+Hufvudstaden A,HUFV-A.ST,common,True,Real Estate,SEK,yes
+Humble Group,HUMBLE.ST,common,True,Consumer Staples,SEK,yes
+Husqvarna B,HUSQ-B.ST,common,True,Consumer Discretionary,SEK,yes
+Image Systems,IS.ST,common,True,Industrials,SEK,yes
+Immunovia,IMMNOV.ST,common,True,Health Care,SEK,yes
+Industrivärden C,INDU-C.ST,common,True,Financials,SEK,yes
+Indutrade,INDT.ST,common,True,Industrials,SEK,yes
+Infant Bacterial TherapeuticsB,IBT-B.ST,common,True,Health Care,SEK,yes
+Infrea,INFREA.ST,common,True,Industrials,SEK,yes
+Inission B,INISS-B.ST,common,True,Industrials,SEK,yes
+INQ Group,INQ.ST,common,True,Technology,SEK,yes
+Instalco,INSTAL.ST,common,True,Industrials,SEK,yes
+Intea Fastigheter B,INTEA-B.ST,common,True,Real Estate,SEK,yes
+International Petroleum Corp.,IPCO.ST,common,True,Energy,SEK,yes
+Intrum,INTRUM.ST,common,True,Financials,SEK,yes
+Investor B,INVE-B.ST,common,True,Financials,SEK,yes
+INVISIO,IVSO.ST,common,True,Industrials,SEK,yes
+Inwido,INWI.ST,common,True,Industrials,SEK,yes
+IRLAB Therapeutics A,IRLAB-A.ST,common,True,Health Care,SEK,yes
+Isofol Medical,ISOFOL.ST,common,True,Health Care,SEK,yes
+ITAB Group,ITAB.ST,common,True,Industrials,SEK,yes
+JM,JM.ST,common,True,Consumer Discretionary,SEK,yes
+John Mattson Fastighetsföret.,JOMA.ST,common,True,Real Estate,SEK,yes
+K-Fast Holding B,KFAST-B.ST,common,True,Real Estate,SEK,yes
+K2A Knaust & Andersson B,K2A-B.ST,common,True,Real Estate,SEK,yes
+KABE Group B,KABE-B.ST,common,True,Consumer Discretionary,SEK,yes
+Karnell Group B,KARNEL-B.ST,common,True,Industrials,SEK,yes
+Karnov Group,KAR.ST,common,True,Industrials,SEK,yes
+KDventures B,KDV-B.ST,common,True,Health Care,SEK,yes
+Keo Capital,KEOC.ST,common,True,Energy,SEK,yes
+Kinnevik B,KINV-B.ST,common,True,Financials,SEK,yes
+Knowit,KNOW.ST,common,True,Technology,SEK,yes
+Lagercrantz Group B,LAGR-B.ST,common,True,Technology,SEK,yes
+Lammhults Design Group B,LAMM-B.ST,common,True,Consumer Discretionary,SEK,yes
+Latour B,LATO-B.ST,common,True,Financials,SEK,yes
+Lifco B,LIFCO-B.ST,common,True,Industrials,SEK,yes
+Lime Technologies,LIME.ST,common,True,Technology,SEK,yes
+Linc,LINC.ST,common,True,Financials,SEK,yes
+Lindab International,LIAB.ST,common,True,Industrials,SEK,yes
+Linjemontage i Grästorp,LMGAB.ST,common,True,Industrials,SEK,no - from memory
+Logistea B,LOGI-B.ST,common,True,Real Estate,SEK,yes
+Loomis,LOOMIS.ST,common,True,Industrials,SEK,yes
+Lundbergföretagen B,LUND-B.ST,common,True,Financials,SEK,yes
+Lundin Gold,LUG.ST,common,True,Basic Materials,SEK,yes
+Lundin Mining Corporation,LUMI.ST,common,True,Basic Materials,SEK,yes
+Malmbergs Elektriska B,MEAB-B.ST,common,True,Industrials,SEK,yes
+Mangold,MANG.ST,common,True,Financials,SEK,yes
+MedCap,MCAP.ST,common,True,Health Care,SEK,yes
+Medicover B,MCOV-B.ST,common,True,Health Care,SEK,yes
+Medivir,MVIR.ST,common,True,Health Care,SEK,yes
+MEKO,MEKO.ST,common,True,Consumer Discretionary,SEK,yes
+Mendus,IMMU.ST,common,True,Health Care,SEK,no - from memory
+Meren Energy,MER.ST,common,True,Energy,SEK,yes
+Micro Systemation B,MSAB-B.ST,common,True,Technology,SEK,yes
+Midsona B,MSON-B.ST,common,True,Consumer Staples,SEK,yes
+Mildef Group,MILDEF.ST,common,True,Industrials,SEK,yes
+Mips,MIPS.ST,common,True,Consumer Discretionary,SEK,yes
+Moberg Pharma,MOB.ST,common,True,Health Care,SEK,no - from memory
+Modern Times Group B,MTG-B.ST,common,True,Consumer Discretionary,SEK,yes
+Moment Group,MOMENT.ST,common,True,Consumer Discretionary,SEK,yes
+Momentum Group B,MMGR-B.ST,common,True,Industrials,SEK,yes
+Morrow Bank,MORROW.ST,common,True,Financials,SEK,yes
+Munters Group,MTRS.ST,common,True,Industrials,SEK,yes
+Mycronic,MYCR.ST,common,True,Technology,SEK,yes
+mySafety Group B,SAFETY-B.ST,common,True,Technology,SEK,yes
+Nanologica,NICA.ST,common,True,Health Care,SEK,yes
+NAXS,NAXS.ST,common,True,Financials,SEK,no - from memory
+NCAB Group,NCAB.ST,common,True,Technology,SEK,yes
+NCC B,NCC-B.ST,common,True,Industrials,SEK,yes
+Nederman Holding,NMAN.ST,common,True,Industrials,SEK,yes
+Nelly Group,NELLY.ST,common,True,Consumer Discretionary,SEK,yes
+Neobo Fastigheter,NEOBO.ST,common,True,Real Estate,SEK,yes
+Net Insight B,NETI-B.ST,common,True,Telecommunications,SEK,yes
+Netel Holding,NETEL.ST,common,True,Industrials,SEK,yes
+New Wave B,NEWA-B.ST,common,True,Consumer Discretionary,SEK,yes
+NIBE Industrier B,NIBE-B.ST,common,True,Industrials,SEK,yes
+Nivika Fastigheter B,NIVI-B.ST,common,True,Real Estate,SEK,yes
+NOBA Bank Group,NOBA.ST,common,True,Financials,SEK,yes
+Nobia,NOBI.ST,common,True,Consumer Discretionary,SEK,yes
+Nolato B,NOLA-B.ST,common,True,Industrials,SEK,yes
+Nordea Bank Abp,NDA-SE.ST,common,True,Financials,SEK,yes
+Nordisk Bergteknik B,NORB-B.ST,common,True,Basic Materials,SEK,no - from memory
+Nordnet,SAVE.ST,common,True,Financials,SEK,yes
+Norion Bank,NORION.ST,common,True,Financials,SEK,yes
+NOTE,NOTE.ST,common,True,Technology,SEK,yes
+NOVOTEK B,NTEK-B.ST,common,True,Technology,SEK,no - from memory
+NP3 Fastigheter,NP3.ST,common,True,Real Estate,SEK,yes
+Nyorda,NYOR.ST,common,True,Technology,SEK,yes
+Octave Intelligence SDB,OCTV-SDB.ST,SDB (depositary receipt),True,Technology,SEK,yes
+OEM International B,OEM-B.ST,common,True,Industrials,SEK,yes
+Oncopeptides,ONCO.ST,common,True,Health Care,SEK,no - from memory
+Orexo,ORX.ST,common,True,Health Care,SEK,yes
+Orrön Energy,ORRON.ST,common,True,Energy,SEK,yes
+Ovzon,OVZON.ST,common,True,Telecommunications,SEK,yes
+Pandox B,PNDX-B.ST,common,True,Real Estate,SEK,yes
+Paradox Interactive,PDX.ST,common,True,Consumer Discretionary,SEK,yes
+Peab B,PEAB-B.ST,common,True,Industrials,SEK,yes
+Pierce Group,PIERCE.ST,common,True,Consumer Discretionary,SEK,no - from memory
+PION Group B,PION-B.ST,common,True,Industrials,SEK,yes
+Platzer Fastigheter Holding B,PLAZ-B.ST,common,True,Real Estate,SEK,yes
+PowerCell Sweden,PCELL.ST,common,True,Industrials,SEK,yes
+PPI Public Property Invest,PUBLI.ST,common,True,Real Estate,SEK,yes
+Precise Biometrics,PREC.ST,common,True,Technology,SEK,yes
+Prevas B,PREV-B.ST,common,True,Technology,SEK,yes
+Pricer B,PRIC-B.ST,common,True,Technology,SEK,no - from memory
+Prisma Properties,PRISMA.ST,common,True,Real Estate,SEK,yes
+Proact IT Group,PACT.ST,common,True,Technology,SEK,yes
+Profilgruppen B,PROF-B.ST,common,True,Basic Materials,SEK,yes
+Profoto Holding,PRFO.ST,common,True,Consumer Discretionary,SEK,yes
+Q-Linea,QLINEA.ST,common,True,Health Care,SEK,yes
+Qliro,QLIRO.ST,common,True,Financials,SEK,no - from memory
+Railcare Group,RAIL.ST,common,True,Industrials,SEK,no - from memory
+Ratos B,RATO-B.ST,common,True,Financials,SEK,yes
+RaySearch Laboratories B,RAY-B.ST,common,True,Health Care,SEK,yes
+Rejlers B,REJL-B.ST,common,True,Industrials,SEK,yes
+Rottneros,RROS.ST,common,True,Basic Materials,SEK,yes
+Rusta,RUSTA.ST,common,True,Consumer Discretionary,SEK,yes
+RVRC Holding,RVRC.ST,common,True,Consumer Discretionary,SEK,yes
+Röko B,ROKO-B.ST,common,True,Financials,SEK,yes
+SAAB B,SAAB-B.ST,common,True,Industrials,SEK,yes
+Sagax B,SAGA-B.ST,common,True,Real Estate,SEK,yes
+Salix Group,SALIX.ST,common,True,Industrials,SEK,yes
+Samhällsbyggnadsbo. i Norden B,SBB-B.ST,common,True,Real Estate,SEK,yes
+Sampo Oyj A,SAMPO.ST,common,True,Financials,SEK,check - ambiguous
+Sandvik,SAND.ST,common,True,Industrials,SEK,yes
+Saniona,SANION.ST,common,True,Health Care,SEK,yes
+SCA B,SCA-B.ST,common,True,Basic Materials,SEK,yes
+Scandi Standard,SCST.ST,common,True,Consumer Staples,SEK,yes
+Scandic Hotels Group,SHOT.ST,common,True,Consumer Discretionary,SEK,yes
+Sdiptech B,SDIP-B.ST,common,True,Industrials,SEK,yes
+Seafire,SEAF.ST,common,True,Financials,SEK,no - from memory
+SEB A,SEB-A.ST,common,True,Financials,SEK,yes
+SECTRA B,SECT-B.ST,common,True,Health Care,SEK,yes
+Securitas B,SECU-B.ST,common,True,Industrials,SEK,yes
+Sedana Medical,SEDANA.ST,common,True,Health Care,SEK,yes
+Sensys Gatso Group,SGG.ST,common,True,Technology,SEK,no - from memory
+Senzime,SEZI.ST,common,True,Health Care,SEK,no - from memory
+Silex Microsystems,SILEX.ST,common,True,Technology,SEK,yes
+Sinch,SINCH.ST,common,True,Technology,SEK,yes
+SinterCast,SINT.ST,common,True,Industrials,SEK,no - from memory
+Sivers Semiconductors,SIVE.ST,common,True,Technology,SEK,yes
+Skanska B,SKA-B.ST,common,True,Industrials,SEK,yes
+SKF B,SKF-B.ST,common,True,Basic Materials,SEK,yes
+SkiStar B,SKIS-B.ST,common,True,Consumer Discretionary,SEK,yes
+Sleep Cycle,SLEEP.ST,common,True,Technology,SEK,no - from memory
+SmartCraft Group,SMCRT.ST,common,True,Technology,SEK,yes
+Softronic B,SOF-B.ST,common,True,Technology,SEK,yes
+Solid Försäkringsaktiebolag,SFAB.ST,common,True,Financials,SEK,yes
+SSAB B,SSAB-B.ST,common,True,Basic Materials,SEK,yes
+Starbreeze B,STAR-B.ST,common,True,Consumer Discretionary,SEK,yes
+Stendörren Fastigheter B,STEF-B.ST,common,True,Real Estate,SEK,yes
+Stenhus Fastigheter i Norden,SFAST.ST,common,True,Real Estate,SEK,yes
+Stillfront Group,SF.ST,common,True,Consumer Discretionary,SEK,yes
+Stockholm Nordtech Group,NTECH.ST,common,True,Technology,SEK,yes
+Stockwik,STWK.ST,common,True,Financials,SEK,yes
+Stora Enso R,STE-R.ST,common,True,Industrials,SEK,yes
+Storskogen Group B,STOR-B.ST,common,True,Financials,SEK,yes
+Storytel B,STORY-B.ST,common,True,Consumer Discretionary,SEK,yes
+Studsvik,SVIK.ST,common,True,Industrials,SEK,yes
+Sv. Handelsbanken A,SHB-A.ST,common,True,Financials,SEK,yes
+Sveafastigheter,SVEAF.ST,common,True,Real Estate,SEK,yes
+Svedbergs Group B,SVED-B.ST,common,True,Industrials,SEK,yes
+Svolder B,SVOL-B.ST,common,True,Financials,SEK,yes
+SWECO B,SWEC-B.ST,common,True,Industrials,SEK,yes
+Swedbank A,SWED-A.ST,common,True,Financials,SEK,yes
+Swedish Logistic Property B,SLP-B.ST,common,True,Real Estate,SEK,yes
+Swedish Orphan Biovitrum,SOBI.ST,common,True,Health Care,SEK,yes
+SynAct Pharma,SYNACT.ST,common,True,Health Care,SEK,yes
+Synsam,SYNSAM.ST,common,True,Consumer Discretionary,SEK,yes
+Systemair,SYSR.ST,common,True,Industrials,SEK,yes
+Tele2 B,TEL2-B.ST,common,True,Telecommunications,SEK,yes
+Telia Company,TELIA.ST,common,True,Telecommunications,SEK,yes
+Thule Group,THULE.ST,common,True,Consumer Discretionary,SEK,yes
+Tieto Oyj,TIETOS.ST,common,True,Technology,SEK,yes
+Tobii,TOBII.ST,common,True,Technology,SEK,yes
+Traction  B,TRAC-B.ST,common,True,Financials,SEK,yes
+Transtema Group,TRANS.ST,common,True,Telecommunications,SEK,yes
+TRATON,8TRA.ST,common,True,Industrials,SEK,yes
+Trelleborg B,TREL-B.ST,common,True,Industrials,SEK,yes
+Trianon B,TRIAN-B.ST,common,True,Real Estate,SEK,yes
+Troax Group,TROAX.ST,common,True,Basic Materials,SEK,yes
+Truecaller B,TRUE-B.ST,common,True,Technology,SEK,yes
+Tången Industrikapital,TANGEN-B.ST,common,True,Financials,SEK,yes
+VBG GROUP B,VBG-B.ST,common,True,Consumer Discretionary,SEK,yes
+VEF,VEFAB.ST,common,True,Financials,SEK,yes
+Verisure,VSURE.ST,common,True,Industrials,EUR,yes
+Viaplay Group B,VPLAY-B.ST,common,True,Telecommunications,SEK,yes
+Vicore Pharma Holding,VICO.ST,common,True,Health Care,SEK,yes
+Vimian Group,VIMIAN.ST,common,True,Health Care,SEK,yes
+Vitec Software Group B,VIT-B.ST,common,True,Technology,SEK,yes
+Vitrolife,VITR.ST,common,True,Health Care,SEK,yes
+Vivesto,VIVE.ST,common,True,Health Care,SEK,yes
+VNV Global,VNV.ST,common,True,Financials,SEK,yes
+Volati,VOLO.ST,common,True,Industrials,SEK,yes
+Volvo B,VOLV-B.ST,common,True,Industrials,SEK,yes
+Volvo Car B,VOLCAR-B.ST,common,True,Consumer Discretionary,SEK,yes
+Wall to Wall Group A,WTW-A.ST,common,True,Industrials,SEK,yes
+Wallenstam B,WALL-B.ST,common,True,Real Estate,SEK,yes
+Wihlborgs Fastigheter,WIHL.ST,common,True,Real Estate,SEK,yes
+Wise Group,WISE.ST,common,True,Industrials,SEK,yes
+Wästbygg Gruppen B,WBGR-B.ST,common,True,Industrials,SEK,no - from memory
+XANO Industri B,XANO-B.ST,common,True,Industrials,SEK,yes
+Xbrane Biopharma,XBRANE.ST,common,True,Health Care,SEK,yes
+Xspray Pharma,XSPRAY.ST,common,True,Health Care,SEK,no - from memory
+Xvivo Perfusion,XVIVO.ST,common,True,Health Care,SEK,yes
+Yubico,YUBICO.ST,common,True,Technology,SEK,yes
+Öresund,ORES.ST,common,True,Financials,SEK,yes
